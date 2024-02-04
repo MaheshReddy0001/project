@@ -1,4 +1,4 @@
-Project Demo : https://maheshreddy0001.github.io/blog
+Project Demo :https://maheshreddy0001.github.io/project/
 
 
 
